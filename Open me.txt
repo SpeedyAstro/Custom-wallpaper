@@ -1,0 +1,8 @@
+-Wallpaper estilo Console + TYPING.
+-Creado con HTML, CSS y JS.
+-Si deseas modificar alguna cosa dentro del código, no hay ningún problema solamente regalame un me gusta y un fav :)
+-Si quieres cambiar el fondo a una imagen de tu preferencia solamente borra la linea  background: linear-gradient(to left bottom, #9cbfc6, #9cbfc6, #92b8c2, #8eb2bf, #83b0bc); y agrega background: url("TuLinkDeLaImagen");
+
+----------------------------------------------------------------------------------------------------------------------------
+-Si tomas el codigo para fines economicos, la libreria usada esta prohibida por derechos de autor. 
+-Solamente se permite para uso personal.
